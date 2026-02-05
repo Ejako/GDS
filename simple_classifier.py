@@ -3,8 +3,8 @@ import seaborn as sns
 from matplotlib.colors import ListedColormap
 from sklearn import datasets, neighbors
 from sklearn.inspection import DecisionBoundaryDisplay
-print("testing")
-print("testing")
+import pandas as pd
+import numpy as np
 
 
 
