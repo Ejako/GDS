@@ -47,4 +47,5 @@ if __name__ == "__main__":
         edgecolor="black",
     )
     plt.title(f"3-Class classification (k =  {n_neighbors}")
+    
     plt.show()
